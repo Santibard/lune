@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "magic",
   "url": "",
-  "manifest": "",
+  "manifest": "https://github.com/Santibard/lune/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
