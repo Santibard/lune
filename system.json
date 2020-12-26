@@ -24,6 +24,6 @@
   "secondaryTokenAttribute": "magic",
   "url": "",
   "manifest": "https://github.com/Santibard/lune/system.json",
-  "download": "",
+  "download": "https://github.com/Santibard/lune",
   "license": "LICENSE.txt"
 }
