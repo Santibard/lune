@@ -4,14 +4,14 @@
     "templates": {
       "base": {
         "health": {
-          "value": 10,
+          "value": 0,
           "min": 0,
-          "max": 10
+          "max": 0
         },
         "magic": {
-          "value": 5,
+          "value": 0,
           "min": 0,
-          "max": 5
+          "max": 0
         }
       }
     },
